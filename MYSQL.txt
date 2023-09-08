@@ -1,3 +1,4 @@
+## Em busca de uma maneira de interpretar MySQL aqui no Git
 ## Subselect  fazendo operações DDL 
 
 ## Criar uma tabela ( fazer um copia de dados de tabela)
